@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Minhas Finanças</string>
+    <string name="add_title">Adicionar Movimentação</string>
+    <string name="hint_moviment">Descrição</string>
+    <string name="inicial_value">R$0,00</string>
+    <string name="add_moviment_button">Salvar</string>
+    <string name="login">Digite seu E-mail</string>
+    <string name="senha">Digite sua senha</string>
+    <string name="login_button">Login</string>
+    <string name="register_text">Novo por aqui?</string>
+    <string name="register_button">Cadastrar</string>
+    <string name="register_title">Cadastrar Usuário</string>
+    <string name="name_field">Digite seu nome completo</string>
+    <string name="email_field">Digite seu e-mail</string>
+    <string name="radio_expense">Despesa</string>
+    <string name="radio_incoming">Receita</string>
+    <string name="delete">Excluir</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <!-- Desativa o aviso de convenção de nomenclatura para funções -->
+    <issue id="FunctionName">
+        <ignore path="**/*.kt" />
+    </issue>
+</lint>
